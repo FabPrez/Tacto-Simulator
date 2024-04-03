@@ -1,3 +1,12 @@
+# User-Modified version of Tacto
+I have updated the requirements file as conflicts arose with the new versions of the packages in the original version.
+
+To install it, follow the process explained below (clone + pip install -e .), then install the requirements as written below.
+
+When you get to the phase to run the examples, I recommend taking a look at the files (.yaml) in the "tact/examples/conf/" folder and using the global paths instead of the local ones.
+
+
+
 # TACTO: A Fast, Flexible and Open-source Simulator for High-Resolution Vision-based Tactile Sensors
 
 [![License: MIT](https://img.shields.io/github/license/facebookresearch/tacto)](LICENSE)
